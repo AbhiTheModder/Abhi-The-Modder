@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android development, Hacking and reverse Engineering
 - 🌱 I’m currently learning all of the above which I'm interested
 - 💞️ I’m looking to collaborate on nothing 😂
-<p align="center"><a href="https://github.com/AbhiTheModder"><img src="https://telegra.ph/file/66ff7a49e69a034fb2a01.jpg" alt="Bt">
+<p align="center"><a href="https://telegra.ph/About-me-04-13-2"><img src="https://telegra.ph/file/66ff7a49e69a034fb2a01.jpg" alt="Bt">
 
 # <p align="center"><a href="https://github.com/AbhiTheModder">About Me</a>
 </p>
