@@ -26,7 +26,7 @@
 <p align="center">
 <a href="https://github.com/AbhiTheModder"><img title="Abhi The MØÐÐĒR" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiTheModder&layout=compact"></a>
 </p>
-<p align="center"> Copyright of Noob Hackers
+<p align="center"> Copyright of AbhiTheModder
 
 <!---
 IncognitoMafia/IncognitoMafia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
