@@ -21,6 +21,11 @@
 <a href="https://t.me/Mods_byAbhi_demandbot"><img title="Telegram Bot" src="https://img.shields.io/badge/Telegram-bot-black?style=for-the-badge&logo=Telegram_bot"></a>
 
 <a href="https://github.com/AbhiTheModder/"><img title="Nothing" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiTheModder&repo=Abhi-The-Modder&theme=vision-friendly-dark"></a>
+  
+<p align="center"> 
+  :eyes: Visitor No. :eyes:<br>
+  <img src="https://profile-counter.glitch.me/Abhi-The-Modder/count.svg" />
+</p>
 
 
 <p align="center">
@@ -29,6 +34,6 @@
 <p align="center"> Copyright of AbhiTheModder
 
 <!---
-IncognitoMafia/IncognitoMafia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
