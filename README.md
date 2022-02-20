@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&text=Hello%20World!&desc=Welcome%20to%20my%20profile&fontAlignY=30&descAlignY=45&color=gradient&animation=fadeIn)
 - 👋 Hi, I’m Abhi
 - 👀 I’m interested in Android development, Hacking and reverse Engineering
 - 🌱 I’m currently learning all of the above which I'm interested
@@ -31,9 +32,9 @@
   <img src="https://profile-counter.glitch.me/Abhi-The-Modder/count.svg" />
 </p>
 
-<p align="center"> Copyright of AbhiTheModder
-
-<!---
-It is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <p align="center"> Copyright of AbhiTheModder</p>
+  
+<p align="center"
+   
+![footer](https://capsule-render.vercel.app/api?height=200&type=transparent&section=footer&text=Thank%20You&fontAlignY=55&fontColor=dd1044)
+   </p>
